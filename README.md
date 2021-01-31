@@ -1,5 +1,7 @@
 # ML_bestiary
 
+## Repo with the datasets that we will use for generating the monsters
+
 ## Web scraping websites
 
 * Binding of Isaac: https://bindingofisaacrebirth.gamepedia.com/Bestiary (300 images)
